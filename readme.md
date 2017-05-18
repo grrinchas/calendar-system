@@ -30,14 +30,13 @@ At the moment users can see their meetings in two views:
 If clicked on the empty space within specific user will create a meeting. If clicked
 on the meeting label, user will have ability to delete or modify it.
 
-![Imgur](http://i.imgur.com/D6SQxct.png)
+<img src="http://i.imgur.com/D6SQxct.png" height="500" width="700" >
 
 2. Year view - shows months by the year. If clicked on the uncolored
 day, user will create a meeting, while clicking on colored day will opened
 modification dialog. 
 
-
-![Imgur](http://i.imgur.com/srnailO.png)
+<img src="http://i.imgur.com/srnailO.png" height="500" width="700" >
 
 **NOTE: ** at the moment there is no way to access all the meetings in the same day 
 in the year view, only first meeting is displayed. To access other meetings,
@@ -54,7 +53,7 @@ At the moment meeting has these fields:
 - Description (optional)
 - List of labels (optional)
 
-![Imgur](http://i.imgur.com/VYTcgL9.png)
+<img src="http://i.imgur.com/VYTcgL9.png" height="500" width="700" >
 
 **NOTE: ** At the moment there are no user input checking implemented, thus user can enter
 malicious text or choose start time after end time.
