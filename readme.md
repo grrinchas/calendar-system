@@ -80,7 +80,7 @@ There are many ways how **Calendar System** can be extended. For example:
  - Add integration with existing calendar systems: google, facebook etc.
 
 
-## Building and running
+## Prerequisites
 
 You will need to have latest [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html) 
 version 8 installed. To check run `java -version`.
