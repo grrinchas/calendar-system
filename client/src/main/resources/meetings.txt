@@ -1,0 +1,46 @@
+{
+  "meetings": [
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-04-14T13:15:00+00:00",
+    "finish time": "2017-04-14T20:15:00+00:00"
+  },
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-04-13T13:15:00+00:00",
+    "finish time": "2017-04-13T20:15:00+00:00"
+  },
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-04-14T13:15:00+00:00",
+    "finish time": "2017-04-14T20:15:00+00:00"
+  },
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-04-14T13:15:00+00:00",
+    "finish time": "2017-04-14T20:15:00+00:00"
+  },
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-05-14T13:15:00+00:00",
+    "finish time": "2017-05-14T20:15:00+00:00"
+  },
+   {
+    "title": "JSON 1",
+    "location": "json location",
+    "description": "json description",
+    "start time": "2017-04-14T13:15:00+00:00",
+    "finish time": "2017-04-14T20:15:00+00:00"
+  }
+  ]
+}

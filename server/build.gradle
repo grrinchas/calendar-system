@@ -1,0 +1,12 @@
+
+apply plugin: 'application'
+mainClassName = "Main"
+
+dependencies {
+
+    compile project(":common")
+
+    // https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+    compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.16.1'
+
+}

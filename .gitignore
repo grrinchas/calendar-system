@@ -1,0 +1,11 @@
+.idea/*
+NA12017.iml
+/bin/
+out/*
+.gradle/*
+server/build/*
+client/build/*
+common/build/*
+server/derby.log
+client/derby.log
+derby.log
