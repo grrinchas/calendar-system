@@ -79,6 +79,27 @@ There are many ways how **Calendar System** can be extended. For example:
  notifications, access control etc.
  - Add ability to save meetings locally as json, xml or other types and later display them.
  - Add integration with existing calendar systems: google, facebook etc.
+
+
+## Building and running
+
+You will need to have latest [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html) 
+version 8 installed. To check run `java -version`.
+
+## Building and running
+
+1. First clone it `git clone https://github.com/grrinchas/calendar-system`
+2. If you don't have [gradle](https://gradle.org/install) installed. Then run 
+`./gradlew`. It should download and install it.
+3. Build all modules with `gradle build`.
+4. First start and run the server `gradle :server:run` (**required**)
+5. Then pen new command line window and start the client `gradle :client:run`. 
+6. Enter username: **111** and password: **111**. NOTE: other predefined
+ users can be found by inspecting database.
+7. Enjoy.
+
+    
+
  
 ## Licence 
 

@@ -29,7 +29,7 @@ public final class Database {
     private static String DEFAULT_DIRECTORY = System.getProperty("user.dir");
 
     // default relative path of the database (this should be appened to the DEFAULT_DIRECTORY)
-    private static String DEFAULT_JDBC_URL = "\\server\\src\\main\\resources\\sqlite.db";
+    private static String DEFAULT_JDBC_URL = "\\src\\main\\resources\\sqlite.db";
 
     // database URL
     private String url = "jdbc:sqlite:" + DEFAULT_DIRECTORY;
