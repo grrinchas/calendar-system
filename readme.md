@@ -5,11 +5,11 @@ a meeting (event).
 
 It is written in Java using RMI and Swing technologies and is composed of three parts:
 
-1. Server - contains logic for dealing with authentication, authorisation and database (Sqlite).
-2. Client - is a swing application which uses RMI to communicate with the `Server`. Because
+1. `Server` - contains logic for dealing with authentication, authorisation and database (Sqlite).
+2. `Client` - is a swing application which uses RMI to communicate with the `Server`. Because
 **Calendar System** is a distributive application, many clients can connect to the server. The change
 in one client will be visible in another.
-3. Common - defines API for communication between `Server` and a `Client`.
+3. `Common` - defines API for communication between `Server` and a `Client`.
 
 **NOTE:** Application was university assignment and was not designed for commercial or other usage. 
 But, that does not mean that it can't be extended for that.
