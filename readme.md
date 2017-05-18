@@ -38,7 +38,7 @@ modification dialog.
 
 <img src="http://i.imgur.com/srnailO.png" height="500" width="700" >
 
-**NOTE: ** at the moment there is no way to access all the meetings in the same day 
+**NOTE:** at the moment there is no way to access all the meetings in the same day 
 in the year view, only first meeting is displayed. To access other meetings,
  user should switch the view.
 
@@ -55,7 +55,7 @@ At the moment meeting has these fields:
 
 <img src="http://i.imgur.com/VYTcgL9.png" height="500" width="700" >
 
-**NOTE: ** At the moment there are no user input checking implemented, thus user can enter
+**NOTE:** At the moment there are no user input checking implemented, thus user can enter
 malicious text or choose start time after end time.
 
 ## Organising meetings
@@ -65,7 +65,7 @@ to assign them to the meetings. Basically, labels work similarly to GitHub label
 is ability for the user to toggle meetings based on them. For example, if clicked on the label which
 is not active, user will show all meetings with that label. 
 
-**NOTE: ** At the moment, there are no way to hide meetings which does not have a label.
+**NOTE:** At the moment, there are no way to hide meetings which does not have a label.
 
 ![Imgur](http://i.imgur.com/lAgc0xw.png)
 
