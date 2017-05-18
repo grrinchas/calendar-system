@@ -1,4 +1,4 @@
-### Calendar System
+# Calendar System
 
 Application allows users to manage their day-to-day schedule by allowing them to create, delete and modify
 a meeting (event). 
